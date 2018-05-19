@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1,Us- NEWS 12
+http://linux-app.tv:8080/live/kkk/kkk/10218.ts
+#EXTINF:-1,Us- ABC US
+http://linux-app.tv:8080/live/kkk/kkk/9809.ts
+#EXTINF:-1,Us- Animal Planet HD
+http://linux-app.tv:8080/live/kkk/kkk/9808.ts
+#EXTINF:-1,Us- BBC AMERICA HD
+http://linux-app.tv:8080/live/kkk/kkk/9807.ts
+#EXTINF:-1,Us- BIG TEN
+http://linux-app.tv:8080/live/kkk/kkk/9806.ts
+#EXTINF:-1,Us- Bloomberg US
+http://linux-app.tv:8080/live/kkk/kkk/9805.ts
+#EXTINF:-1,Us- Bravo HD
+http://linux-app.tv:8080/live/kkk/kkk/9804.ts
+#EXTINF:-1,Us- Cartoon Network US
+http://linux-app.tv:8080/live/kkk/kkk/9803.ts
+#EXTINF:-1,Us- CBS Sport HD
+http://linux-app.tv:8080/live/kkk/kkk/9802.ts
+#EXTINF:-1,Us- CBS US
+http://linux-app.tv:8080/live/kkk/kkk/9801.ts
+#EXTINF:-1,Us- CINEMAX HD
+http://linux-app.tv:8080/live/kkk/kkk/9800.ts
+#EXTINF:-1,Us- CINEMAX THRILLERMAX HD
+http://linux-app.tv:8080/live/kkk/kkk/9799.ts
+#EXTINF:-1,Us- CNBC US
+http://linux-app.tv:8080/live/kkk/kkk/9798.ts
+#EXTINF:-1,Us- CNN US HD
+http://linux-app.tv:8080/live/kkk/kkk/9797.ts
+#EXTINF:-1,Us- Comedy Central HD
+http://linux-app.tv:8080/live/kkk/kkk/9796.ts
+#EXTINF:-1,Us- Cooking channel HD
+http://linux-app.tv:8080/live/kkk/kkk/9795.ts
+#EXTINF:-1,Us- Discovery Channel US HD
+http://linux-app.tv:8080/live/kkk/kkk/9794.ts
+#EXTINF:-1,Us- DISCOVERY FAMILY
+http://linux-app.tv:8080/live/kkk/kkk/9793.ts
+#EXTINF:-1,Us- Discovery Investigation
+http://linux-app.tv:8080/live/kkk/kkk/9792.ts
+#EXTINF:-1,Us- Discovery Science US HD
+http://linux-app.tv:8080/live/kkk/kkk/9791.ts
+#EXTINF:-1,Us- Disney Channel US
+http://linux-app.tv:8080/live/kkk/kkk/9790.ts
+#EXTINF:-1,Us- Disney Junior US
+http://linux-app.tv:8080/live/kkk/kkk/9789.ts
+#EXTINF:-1,Us- E! Entertainment US
+http://linux-app.tv:8080/live/kkk/kkk/9788.ts
+#EXTINF:-1,Us- FOX Business Network
+http://linux-app.tv:8080/live/kkk/kkk/9787.ts
+#EXTINF:-1,Us- Fox sport 1 HD
+http://linux-app.tv:8080/live/kkk/kkk/9786.ts
+#EXTINF:-1,Us- Fox sport 2 HD
+http://linux-app.tv:8080/live/kkk/kkk/9785.ts
+#EXTINF:-1,Us- FX HD
+http://linux-app.tv:8080/live/kkk/kkk/9784.ts
+#EXTINF:-1,Us- FYI HD
+http://linux-app.tv:8080/live/kkk/kkk/9783.ts
+#EXTINF:-1,Us- GSN HD
+http://linux-app.tv:8080/live/kkk/kkk/9782.ts
+#EXTINF:-1,Us- HBO Comedy HD
+http://linux-app.tv:8080/live/kkk/kkk/9781.ts
+#EXTINF:-1,Us- HBO Signature
+http://linux-app.tv:8080/live/kkk/kkk/9780.ts
+#EXTINF:-1,Us- HBO US HD
+http://linux-app.tv:8080/live/kkk/kkk/9779.ts
+#EXTINF:-1,Us- HBO ZONE HD
+http://linux-app.tv:8080/live/kkk/kkk/9778.ts
+#EXTINF:-1,Us- HGTV HD
+http://linux-app.tv:8080/live/kkk/kkk/9777.ts
+#EXTINF:-1,Us- History
+http://linux-app.tv:8080/live/kkk/kkk/9776.ts
+#EXTINF:-1,Us- History HD US
+http://linux-app.tv:8080/live/kkk/kkk/9775.ts
+#EXTINF:-1,Us- Life Time HD
+http://linux-app.tv:8080/live/kkk/kkk/9774.ts
+#EXTINF:-1,Us- MTV HD US
+http://linux-app.tv:8080/live/kkk/kkk/9773.ts
+#EXTINF:-1,Us- Nat Geo Wild HD US
+http://linux-app.tv:8080/live/kkk/kkk/9772.ts
+#EXTINF:-1,Us- NatGeo HD USA
+http://linux-app.tv:8080/live/kkk/kkk/9771.ts
+#EXTINF:-1,Us- NBA HD
+http://linux-app.tv:8080/live/kkk/kkk/9770.ts
+#EXTINF:-1,Us- NBC EAST HD
+http://linux-app.tv:8080/live/kkk/kkk/9769.ts
+#EXTINF:-1,Us- NBCSN HD
+http://linux-app.tv:8080/live/kkk/kkk/9768.ts
+#EXTINF:-1,Us- Nick Junior US
+http://linux-app.tv:8080/live/kkk/kkk/9767.ts
+#EXTINF:-1,Us- Nick Toons US
+http://linux-app.tv:8080/live/kkk/kkk/9766.ts
+#EXTINF:-1,Us- OWN HD
+http://linux-app.tv:8080/live/kkk/kkk/9765.ts
+#EXTINF:-1,Us- SEC NETWORK HD
+http://linux-app.tv:8080/live/kkk/kkk/9764.ts
+#EXTINF:-1,Us- SHOWTIME FAMILY ZONE
+http://linux-app.tv:8080/live/kkk/kkk/9763.ts
+#EXTINF:-1,Us- SLICE HD
+http://linux-app.tv:8080/live/kkk/kkk/9762.ts
+#EXTINF:-1,Us- Space US
+http://linux-app.tv:8080/live/kkk/kkk/9761.ts
+#EXTINF:-1,Us- Starz HD US
+http://linux-app.tv:8080/live/kkk/kkk/9760.ts
+#EXTINF:-1,Us- STARZ KIDS & Family HD
+http://linux-app.tv:8080/live/kkk/kkk/9759.ts
+#EXTINF:-1,Us- Syfy HD
+http://linux-app.tv:8080/live/kkk/kkk/9758.ts
+#EXTINF:-1,Us- SyFy HD USA
+http://linux-app.tv:8080/live/kkk/kkk/9757.ts
+#EXTINF:-1,Us- TBS USA
+http://linux-app.tv:8080/live/kkk/kkk/9756.ts
+#EXTINF:-1,Us- TLC HD
+http://linux-app.tv:8080/live/kkk/kkk/9755.ts
+#EXTINF:-1,Us- TNT US
+http://linux-app.tv:8080/live/kkk/kkk/9754.ts
+#EXTINF:-1,Us- TRU TV HD
+http://linux-app.tv:8080/live/kkk/kkk/9753.ts
+#EXTINF:-1,Us- TV Land HD
+http://linux-app.tv:8080/live/kkk/kkk/9752.ts
+#EXTINF:-1,Us- Velocity HD
+http://linux-app.tv:8080/live/kkk/kkk/9751.ts
+#EXTINF:-1,Us- VH1 HD US
+http://linux-app.tv:8080/live/kkk/kkk/9750.ts
+#EXTINF:-1,Us- Viceland TV
+http://linux-app.tv:8080/live/kkk/kkk/9749.ts
+#EXTINF:-1,Us- WE HD
+http://linux-app.tv:8080/live/kkk/kkk/9748.ts
+#EXTINF:-1,Us- Weather channel
+http://linux-app.tv:8080/live/kkk/kkk/9747.ts
+#EXTINF:-1,Us- WWE HD
+http://linux-app.tv:8080/live/kkk/kkk/9746.ts
