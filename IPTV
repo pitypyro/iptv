@@ -1,1 +1,205 @@
-
+#EXTM3U
+#EXTINF:-1,US | COMEDY CENTRAL HD
+http://s1.electru.biz:8080/live/prem/prem/20904.ts
+#EXTINF:-1,US | PBS EAST
+http://s1.electru.biz:8080/live/prem/prem/26548.ts
+#EXTINF:-1,US | CW11
+http://s1.electru.biz:8080/live/prem/prem/20984.ts
+#EXTINF:-1,US | BET HD
+http://s1.electru.biz:8080/live/prem/prem/20651.ts
+#EXTINF:-1,US | GSN HD
+http://s1.electru.biz:8080/live/prem/prem/23305.ts
+#EXTINF:-1,US | HISTORY HD
+http://s1.electru.biz:8080/live/prem/prem/28580.ts
+#EXTINF:-1,US | LIFETIME MOVIES HD
+http://s1.electru.biz:8080/live/prem/prem/20914.ts
+#EXTINF:-1,US | VH1
+http://s1.electru.biz:8080/live/prem/prem/51470.ts
+#EXTINF:-1,US | ESPN HD
+http://s1.electru.biz:8080/live/prem/prem/13859.ts
+#EXTINF:-1,US | ESPN 2
+http://s1.electru.biz:8080/live/prem/prem/13860.ts
+#EXTINF:-1,US | ESPN U
+http://s1.electru.biz:8080/live/prem/prem/13861.ts
+#EXTINF:-1,US | ESPN News
+http://s1.electru.biz:8080/live/prem/prem/13862.ts
+#EXTINF:-1,US | FOX SPORTS 1 HD
+http://s1.electru.biz:8080/live/prem/prem/13878.ts
+#EXTINF:-1,US | FOX SPORTS 2 HD
+http://s1.electru.biz:8080/live/prem/prem/13879.ts
+#EXTINF:-1,US | TENNIS HD
+http://s1.electru.biz:8080/live/prem/prem/27825.ts
+#EXTINF:-1,US | HLN HD
+http://s1.electru.biz:8080/live/prem/prem/26550.ts
+#EXTINF:-1,US | NBC HD EAST
+http://s1.electru.biz:8080/live/prem/prem/20985.ts
+#EXTINF:-1,US | ABC EAST HD
+http://s1.electru.biz:8080/live/prem/prem/20986.ts
+#EXTINF:-1,US | FOX EAST
+http://s1.electru.biz:8080/live/prem/prem/28642.ts
+#EXTINF:-1,US | NBC WEST
+http://s1.electru.biz:8080/live/prem/prem/26563.ts
+#EXTINF:-1,US | FOX WEST
+http://s1.electru.biz:8080/live/prem/prem/26562.ts
+#EXTINF:-1,US | ABC WEST
+http://s1.electru.biz:8080/live/prem/prem/26561.ts
+#EXTINF:-1,US | CBS WEST
+http://s1.electru.biz:8080/live/prem/prem/26560.ts
+#EXTINF:-1,US | FOX NEWS HD
+http://s1.electru.biz:8080/live/prem/prem/20706.ts
+#EXTINF:-1,US | A&E HD
+http://s1.electru.biz:8080/live/prem/prem/20911.ts
+#EXTINF:-1,US | BRAVO HD
+http://s1.electru.biz:8080/live/prem/prem/20902.ts
+#EXTINF:-1,US | CARTOON NETWORK HD
+http://s1.electru.biz:8080/live/prem/prem/20988.ts
+#EXTINF:-1,US | CRIMINAL INVESTIGATION  HD
+http://s1.electru.biz:8080/live/prem/prem/20973.ts
+#EXTINF:-1,US | FOX BUSINESS NETWORK HD
+http://s1.electru.biz:8080/live/prem/prem/20983.ts
+#EXTINF:-1,US | MTV LIVE HD
+http://s1.electru.biz:8080/live/prem/prem/20954.ts
+#EXTINF:-1,US | SUNDANCE HD
+http://s1.electru.biz:8080/live/prem/prem/20956.ts
+#EXTINF:-1,US | TRU TV HD
+http://s1.electru.biz:8080/live/prem/prem/20952.ts
+#EXTINF:-1,US  | WE TV HD
+http://s1.electru.biz:8080/live/prem/prem/20955.ts
+#EXTINF:-1,US | C-SPAN 1 HD
+http://s1.electru.biz:8080/live/prem/prem/21170.ts
+#EXTINF:-1,US | C-SPAN 2 HD
+http://s1.electru.biz:8080/live/prem/prem/21171.ts
+#EXTINF:-1,US | C-SPAN 3 HD
+http://s1.electru.biz:8080/live/prem/prem/21172.ts
+#EXTINF:-1,US | TNT HD
+http://s1.electru.biz:8080/live/prem/prem/21459.ts
+#EXTINF:-1,US | ID HD
+http://s1.electru.biz:8080/live/prem/prem/21997.ts
+#EXTINF:-1,US | CINEMAX HD
+http://s1.electru.biz:8080/live/prem/prem/20976.ts
+#EXTINF:-1,US | CINEMAX MOREMAX HD
+http://s1.electru.biz:8080/live/prem/prem/20975.ts
+#EXTINF:-1,US | CINEMAX THRILLERMAX HD
+http://s1.electru.biz:8080/live/prem/prem/20974.ts
+#EXTINF:-1,US | EL RAY HD
+http://s1.electru.biz:8080/live/prem/prem/20970.ts
+#EXTINF:-1,US | EPIX 2 HD
+http://s1.electru.biz:8080/live/prem/prem/20968.ts
+#EXTINF:-1,US | HBO COMEDY HD
+http://s1.electru.biz:8080/live/prem/prem/20964.ts
+#EXTINF:-1,US | HBO SIGNATURE HD
+http://s1.electru.biz:8080/live/prem/prem/20962.ts
+#EXTINF:-1,US | HBO ZONE HD
+http://s1.electru.biz:8080/live/prem/prem/20961.ts
+#EXTINF:-1,US | EPIX HD
+http://s1.electru.biz:8080/live/prem/prem/20969.ts
+#EXTINF:-1,US | HGTV HD
+http://s1.electru.biz:8080/live/prem/prem/25232.ts
+#EXTINF:-1,US | MSNBC HD
+http://s1.electru.biz:8080/live/prem/prem/26075.ts
+#EXTINF:-1,US | ANIMAL PLANET HD
+http://s1.electru.biz:8080/live/prem/prem/20989.ts
+#EXTINF:-1,US | BBC AMERICA HD
+http://s1.electru.biz:8080/live/prem/prem/20977.ts
+#EXTINF:-1,US | DISCOVERY SCIENCE HD
+http://s1.electru.biz:8080/live/prem/prem/20935.ts
+#EXTINF:-1,US | E! HD
+http://s1.electru.biz:8080/live/prem/prem/20704.ts
+#EXTINF:-1,US | FOOD NETWORK HD
+http://s1.electru.biz:8080/live/prem/prem/21142.ts
+#EXTINF:-1,US | HALLMARK HD
+http://s1.electru.biz:8080/live/prem/prem/29987.ts
+#EXTINF:-1,US | HALLMARK MOVIES HD
+http://s1.electru.biz:8080/live/prem/prem/20966.ts
+#EXTINF:-1,US | IFC HD
+http://s1.electru.biz:8080/live/prem/prem/20960.ts
+#EXTINF:-1,US | NAT GEO HD
+http://s1.electru.biz:8080/live/prem/prem/20982.ts
+#EXTINF:-1,US | NAT GEO WILD HD
+http://s1.electru.biz:8080/live/prem/prem/20981.ts
+#EXTINF:-1,US | OWN HD
+http://s1.electru.biz:8080/live/prem/prem/20979.ts
+#EXTINF:-1,US | SPIKE HD
+http://s1.electru.biz:8080/live/prem/prem/20943.ts
+#EXTINF:-1,US | SYFY HD
+http://s1.electru.biz:8080/live/prem/prem/20909.ts
+#EXTINF:-1,US | TLC HD
+http://s1.electru.biz:8080/live/prem/prem/26543.ts
+#EXTINF:-1,US | TBS HD
+http://s1.electru.biz:8080/live/prem/prem/20987.ts
+#EXTINF:-1,US | TRAVEL CHANNEL HD
+http://s1.electru.biz:8080/live/prem/prem/26545.ts
+#EXTINF:-1,US | USA NETWORK HD
+http://s1.electru.biz:8080/live/prem/prem/20944.ts
+#EXTINF:-1,US | WEATHER HD
+http://s1.electru.biz:8080/live/prem/prem/23193.ts
+#EXTINF:-1,US | STARZ CINEMA HD
+http://s1.electru.biz:8080/live/prem/prem/21460.ts
+#EXTINF:-1,US | CNN  HD
+http://s1.electru.biz:8080/live/prem/prem/29026.ts
+#EXTINF:-1,US | CBSN NEWS
+http://s1.electru.biz:8080/live/prem/prem/27539.ts
+#EXTINF:-1,US | CNBC HD
+http://s1.electru.biz:8080/live/prem/prem/28303.ts
+#EXTINF:-1,US | SHOWTIME SHOWCASE
+http://s1.electru.biz:8080/live/prem/prem/28573.ts
+#EXTINF:-1,US | ABC NEWS
+http://s1.electru.biz:8080/live/prem/prem/28649.ts
+#EXTINF:-1,US | CBS EAST HD
+http://s1.electru.biz:8080/live/prem/prem/28647.ts
+#EXTINF:-1,US | DIY NETWORK HD
+http://s1.electru.biz:8080/live/prem/prem/28637.ts
+#EXTINF:-1,US | AMC HD
+http://s1.electru.biz:8080/live/prem/prem/29263.ts
+#EXTINF:-1,US | AMERICAN HEROES CHANNEL HD
+http://s1.electru.biz:8080/live/prem/prem/30625.ts
+#EXTINF:-1,US | BUZZR
+http://s1.electru.biz:8080/live/prem/prem/30627.ts
+#EXTINF:-1,US| VICELAND HD
+http://s1.electru.biz:8080/live/prem/prem/30893.ts
+#EXTINF:-1,US | NBA HD
+http://s1.electru.biz:8080/live/prem/prem/32175.ts
+#EXTINF:-1,US | NICKELODEON.
+http://s1.electru.biz:8080/live/prem/prem/32173.ts
+#EXTINF:-1,US | DISCOVERY HD
+http://s1.electru.biz:8080/live/prem/prem/32182.ts
+#EXTINF:-1,US | FXX HD
+http://s1.electru.biz:8080/live/prem/prem/32181.ts
+#EXTINF:-1,US | VELOCITY HD
+http://s1.electru.biz:8080/live/prem/prem/32183.ts
+#EXTINF:-1,US | FREEFORM HD
+http://s1.electru.biz:8080/live/prem/prem/50385.ts
+#EXTINF:-1,US | Hallmark Movies & Mysteries
+http://s1.electru.biz:8080/live/prem/prem/50195.ts
+#EXTINF:-1,US | HBO FAMILY
+http://s1.electru.biz:8080/live/prem/prem/52143.ts
+#EXTINF:-1,US | COOKING CHANNEL
+http://s1.electru.biz:8080/live/prem/prem/52974.ts
+#EXTINF:-1,US | BOOMERANG
+http://s1.electru.biz:8080/live/prem/prem/53264.ts
+#EXTINF:-1,US | CNBC WORLD
+http://s1.electru.biz:8080/live/prem/prem/53269.ts
+#EXTINF:-1,US | FUSE
+http://s1.electru.biz:8080/live/prem/prem/53262.ts
+#EXTINF:-1,US | FXM
+http://s1.electru.biz:8080/live/prem/prem/53267.ts
+#EXTINF:-1,US | FYI
+http://s1.electru.biz:8080/live/prem/prem/53261.ts
+#EXTINF:-1,US | OXYGEN
+http://s1.electru.biz:8080/live/prem/prem/53265.ts
+#EXTINF:-1,US | TCM
+http://s1.electru.biz:8080/live/prem/prem/53263.ts
+#EXTINF:-1,US | QVC
+http://s1.electru.biz:8080/live/prem/prem/53456.ts
+#EXTINF:-1,US | REVOLT
+http://s1.electru.biz:8080/live/prem/prem/53455.ts
+#EXTINF:-1,US | SHOWTIME
+http://s1.electru.biz:8080/live/prem/prem/53454.ts
+#EXTINF:-1,US | SHOWTIME-EXTREME
+http://s1.electru.biz:8080/live/prem/prem/53453.ts
+#EXTINF:-1,US | STARZ
+http://s1.electru.biz:8080/live/prem/prem/53451.ts
+#EXTINF:-1,US | STARZ-EDGE
+http://s1.electru.biz:8080/live/prem/prem/53450.ts
+#EXTINF:-1,US | MTV
+http://s1.electru.biz:8080/live/prem/prem/53798.ts
